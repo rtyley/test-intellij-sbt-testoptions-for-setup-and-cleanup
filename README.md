@@ -1,0 +1,1 @@
+# test-intellij-sbt-testoptions-for-setup-and-cleanup
